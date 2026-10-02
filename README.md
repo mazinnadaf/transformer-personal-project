@@ -1,7 +1,5 @@
-# Creative Writing Fiction Dialogue AI Assistant
-Finetuning a SmolLM-360M-Instruct model and a custom-built language model for fiction dialogue generation – WORK IN PROGRESS and very small model
-
-Link: https://huggingface.co/spaces/mazinnadaf/dialogue-assistant-work-in-progress
+# Transformer Personal Project
+Finetuning a SmolLM-360M-Instruct model and a custom-built language model 
 
 > ### Citations:
 >
